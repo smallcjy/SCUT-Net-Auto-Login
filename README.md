@@ -12,6 +12,8 @@
 
 ` git clone git@github.com:smallcjy/SCUT-Net-Auto-Login.git `
 
+或者点击右上角的code，点击local，点击获取压缩包下载，解压。
+
 2. 打开克隆仓库文件的位置，打开_internal文件夹，找到useraccount.txt和password.txt分别写入校园网登录账号和密码，保存退出。
 3. 设置开机自启
   - 返回本地的仓库地址，右键autoLogin.exe创建快捷方式
