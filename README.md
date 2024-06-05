@@ -8,7 +8,7 @@
 - 实现这些需求是未来的开发计划，请谅解。
 - 请仔细阅读本文档！
 的情况下，
-1. 克隆本仓库到本地
+1. 克隆本仓库到本地或者直接下载压缩包本体
 
 ` git clone git@github.com:smallcjy/SCUT-Net-Auto-Login.git `
 
